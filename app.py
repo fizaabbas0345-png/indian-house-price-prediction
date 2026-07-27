@@ -15,7 +15,7 @@ st.set_page_config(
 # -----------------------------
 # Load Model and Feature Names (cached so it only loads once)
 # -----------------------------
-MODEL_REPO = "your-username/house-price-model"  # <-- change to your HF repo
+MODEL_REPO = "123Fiza/indian_house_price_prediction"  # <-- change to your HF repo
 
 
 @st.cache_resource
